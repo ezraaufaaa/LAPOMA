@@ -2,7 +2,7 @@
 <aside class="main-sidebar sidebar-dark-primary elevation-4">
   <!-- Brand Logo -->
   <a href="<?= base_url('pelapor'); ?>" class="brand-link">
-    <img src="<?= base_url('assets/img/img_properties/favicon.png'); ?>" alt="AdminLTE Logo" class="img-w-50">
+    <img src="<?= base_url('assets/img/img_properties/favicon.jpg'); ?>" alt="AdminLTE Logo" class="img-w-50">
     <span class="brand-text">LAPOR PAK</span>
   </a>
 

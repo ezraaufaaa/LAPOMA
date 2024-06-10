@@ -16,8 +16,7 @@
 					</div>
 				</div>
 				<div class="col-lg footer-sosial-media pt-2 my-auto">
-					<a class="text-decoration-none mx-2 text-dark" target="_blank" href="https://github.com/hako-975"><i class="fab fa-2x fa-github"></i></a>
-					<a class="text-decoration-none mx-2 text-dark" target="_blank" href="https://instagram.com/andri_firman_975"><i class="fab fa-2x fa-instagram"></i></a>
+					<a class="text-decoration-none mx-2 text-dark" target="_blank" href="https://github.com/ezraaufaaa/LAPOMA"><i class="fab fa-2x fa-github"></i></a>
 				</div>
 			</div>
 		</div>

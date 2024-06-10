@@ -49,7 +49,7 @@
 	<div class="container pb-5">
 		<div class="row justify-content-center py-4">
 			<div class="col-lg">
-				<h4>Tata Cara Penggunaan Lapor Pak</h4>
+				<h4>Tata Cara Penggunaan LAPOMA</h4>
 				<div class="row justify-content-center">
 					<div class="py-2 col-xl-2 col-lg-3 col-md-3">
 						<div class="card">
@@ -234,12 +234,7 @@
 					</form>
 				</div>
 			</div>
-			<div class="col-lg-6 my-2">
-				<div class="border p-3 rounded">
-					<h4>Peta Kabupaten Bondowoso</h4>
-					<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2282.8707509948963!2d113.82174085889423!3d-7.91426281243188!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd6dcdcd914c45b%3A0x2b876ee550fd7d07!2sKantor%20Bupati%20Bondowoso!5e0!3m2!1sid!2sid!4v1685868331143!5m2!1sid!2sid" style="border:0; width: 100%; height: 33.125rem;" allowfullscreen="" loading="lazy"></iframe>
-				</div>
-			</div>
+			
 		</div>
 	</div>
 </main>
